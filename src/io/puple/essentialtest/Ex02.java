@@ -36,7 +36,6 @@ public class Ex02 {
 				break;
 			}
 		}
-		
 		return foo;
 	}
 }
