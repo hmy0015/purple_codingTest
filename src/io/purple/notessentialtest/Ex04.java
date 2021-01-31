@@ -1,4 +1,4 @@
-package io.puple.notessentialtest;
+package io.purple.notessentialtest;
 
 import java.util.ArrayList;
 

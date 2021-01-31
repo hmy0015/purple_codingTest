@@ -1,4 +1,4 @@
-package io.puple.essentialtest;
+package io.purple.essentialtest;
 
 import java.util.Iterator;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package io.puple.notessentialtest;
+package io.purple.notessentialtest;
 
 public class Ex01 {
 	public static void main(String[] args) {
