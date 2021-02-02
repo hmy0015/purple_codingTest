@@ -5,7 +5,7 @@ public class Ex01 {
 		String str = "Abracadabra"; // 임의의 글자 입력
 		System.out.println(vowels(str)); // 모음 개수 구해주는 메소드 호출
 	}
-	
+	// 정규표현식 사용
 	// 모음 구분해주는 메소드
 	public static int vowels(String str) {
 		int vowels = 0; // 모음을 세어 줄 변수 선언
